@@ -10,8 +10,7 @@ Shipping and Tracking Application Built using Tensorflow, NodeJS, React, MongoDB
 
 To start the project, just run:
 ```
-bash start.sh
-
+$ bash start.sh
 ```
 
 # Test Credentials
@@ -19,7 +18,6 @@ bash start.sh
 ```
 $ Admin -> email: admin@gmail.com, password: 12345
 $ Business -> email: mail@ajio.com, password: 12345
-
 ```
 
 All instances should run on seperate posts.

@@ -8,6 +8,15 @@ Shipping and Tracking Application Built using Tensorflow, NodeJS, React, MongoDB
 
 # Setup
 
+Create a .env file in the server directory with the following credentials:
+
+```
+MONGO_URI="YOUR_MONGO_URI"
+JWT_SECRET="YOUR_SECRET"
+```
+
+
+# Start
 To start the project, just run:
 ```
 $ bash start.sh

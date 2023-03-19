@@ -2,22 +2,16 @@
 
 ![JustShipIt](https://i.imgur.com/JHjR1nu.jpeg)
 
-Shipping and Tracking Application Built using Tensorflow, NodeJS, React, MongoDB, and Chakra UI for SNUHack 2023.
+Shipping and Tracking Application Built using Tensorflow, NodeJS, React, MongoDB, and Chakra UI for HackAMU 2023.
 
-# Installation
 
-```
-$ cd server && npm install
-$ cd client && npm install
-$ cd model && pip install -r requirements.txt
-```
 
 # Setup
 
+To start the project, just run:
 ```
-$ cd server && nom start
-$ cd client && npm start
-$ cd model && python3 model3.py
+bash start.sh
+
 ```
 
 # Test Credentials
